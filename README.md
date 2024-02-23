@@ -27,6 +27,7 @@
 **Dawid Przyczyna:**
 - NETXP User Account Creation Outside Bussines Hours
 - NETXP Outbound TOR Traffic
+- NETXP Windows Defender Detected Malware
 - New Process Found
 - Anomalne Procesy 
 - Nowe procesy
